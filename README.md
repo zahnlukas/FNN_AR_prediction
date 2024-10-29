@@ -20,6 +20,6 @@ Git repository of my Bachelor Thesis - Description of notebooks in repository
 - *02_Model_2*: Select dataset number based on which you want to evaluate; Output: Average MAE for 5 runs with 20 epochs each; Additionally can run on test set with new customers
 - *03_Model_3*: Select dataset number based on which you want to evaluate
 - *04_Hyperparameters*: Hyperparameter Tuning of Model
-- *05_SHAP_values*:
-- *Naive_model*:
+- *05_SHAP_values*: Calculate SHAP values for final model
+- *Naive_model*: Naive prediction model
 - *feature_scaler*: Custome scaling function that scales takes scaling parameters from X_train
