@@ -1,0 +1,4 @@
+amount,currency,customer_id,receipt_date,due_date,weighted_payment_date,Currency,Rate,amount_euro,isocode,country_enc,payment_terms
+1000,USD,abc123,2023-01-01,2023-03-02,2023-03-20,USD,1.1155,896.4589870013448,US,0,60
+1500,EUR,acb345,2023-01-01,2023-01-16,2023-01-25,EUR,1.0,1500.0,DE,1,15
+2000,GBP,xyz678,2023-01-01,2023-01-31,2023-01-25,GBP,0.83428,2397.276693675984,GB,2,30

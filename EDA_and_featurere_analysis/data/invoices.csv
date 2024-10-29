@@ -1,0 +1,5 @@
+amount,currency,payment_term,customer_id,receipt_date,due_date,weighted_payment_date
+1000,USD,60,abc123,2023-01-01,2023-03-02,2023-03-20
+1500,EUR,15,acb345,2023-01-01,2023-01-16,2023-01-25
+2000,GBP,30,xyz678,2023-01-01,2023-01-31,2023-01-25
+2500,RSD,30,abc987,2023-01-01,2023-01-01,2023-01-01
